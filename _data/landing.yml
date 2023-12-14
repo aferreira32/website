@@ -26,8 +26,8 @@
 
 
 
-- id: Contact Me
+- id: Links
   i18n: nav.link
-  name: Links
+  name: Contact Me
   tpl: links.html
   css: contact
