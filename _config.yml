@@ -3,7 +3,7 @@
 # Website settings
 title: António Ferreira
 description: António Ferreira's portfolio
-keywords: Materials Science and Engineering, Georgia Tech, Dr. Stingelin Group, CASMART6
+keywords: Materials Science and Engineering, Georgia Tech
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://antonioferreira.life  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000

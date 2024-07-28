@@ -24,8 +24,6 @@
   tpl: projects.html
   css: project
 
-
-
 - id: Links
   i18n: nav.link
   name: Contact Me
