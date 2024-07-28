@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Matlab, Python, SEM, Wire EDM, Metallography, Vacuum Arc Melting, Welding, 3D Printing
-percentage: 90, 60, 85, 75, 80, 75, 80, 75
+aspects: Matlab, DSC, SEM, Wire EDM, Metallography, Vacuum Arc Melting, Welding, 3D Printing
+percentage: 90, 85, 85, 75, 80, 75, 80, 75
