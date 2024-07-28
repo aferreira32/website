@@ -28,7 +28,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: 
     - name: 
-  desc: Introduce myself will be here. # Describe yourself.
+  desc: I'm a Materials Science & Engineering student and Materials Thermodynamics (MSE 3001) teaching assistant at Georgia Tech. My interests in the field are broad and range from shape memory alloys and additive manufacturing technologies, to materials for energy applications and their processing. Outside school I enjoy travelling, practicing sports and hanging out with friends, and currently I'm following Dr. Spark's online course on Materials Informactics to develop programming skills in the field of MSE.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

@@ -1,6 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Otiima Customs
-  img: /static/assets/img/Banner1.png
-  desc: This project is my project.
+- name: <a href="https://www.instagram.com/otiimagarage/">Otiima Garage</a>
+  img: /static/assets/img/OtiimaGarage.jpg
+  desc: Otiima Garage is a classic car restoration shop. I restored Citroën HY, Porsche 914, Jaguar E-Type 4.2, and Alfa Romeo Giulia GTAM1750.

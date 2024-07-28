@@ -1,30 +1,87 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: <a href="https://www.stingelin-lab.gatech.edu/">Dr. Stingeling Lab Group</a>
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Design, fabricate, and characterize fully-solution processed polymer-based thin films, distributed Bragg reflectors, and optical microcavities for photonic applications.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sept. 2021 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Undergraduate Researcher
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Chem. Thermodynamics of Materials (MSE 3001)
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Grade homeworks and exams.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Sept. 2023 - Present
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Teaching Assistant
     i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: <a href="https://cobod.com/">COBOD</a>
+    i18n: company_c
+  desc:
+    detail: Lead the development of a novel insulating material adaptable to 3D printing technologies, performed extensive testing on cement-based materials, and printed various concrete structures on-site.
+    i18n: company_c_desc
+  date:
+    detail: May - August 2024
+    i18n: company_c_date
+  job:
+    detail: Materials Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a href="https://www.casmart.org/home/student-design-challenges/casmart-6th-design-challenge">CASMART 6th Student Design Challenge</a>
+    i18n: company_d
+  desc:
+    detail: Fabricated elastocaloric NiTiCu shape memory alloys (SMAs) and performed tests and characterizations using DSC, SEM, and cyclical compression tests. I also gained experience with Vacuum Arc Melter, wire EDM, and ultrasonic powder atomizer. Presented the research results at the Shape Memory and Superelastic Technology (SMST) 2024 conference in Portugal.
+    i18n: company_d_desc
+  date:
+    detail: Sept. 2023 - May 2024
+    i18n: company_d_date
+  job:
+    detail: Researcher
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a href="https://mill.mse.gatech.edu/">The Materials Innovation and Learning Laboratory</a>
+    i18n: company_e
+  desc:
+    detail: As Chief Technology Officer of the Characterization team, I maintained and repaired equipment, trained staff and users, and supported on-campus research. Additionally, I oversaw the team, enhanced staff/user experience, procured equipment, and managed the laboratory with the executive board.
+    i18n: company_e_desc
+  date:
+    detail: Sept. 2021 - January 2024
+    i18n: company_e_date
+  job:
+    detail: CTO
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a href="https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/">Institute of Computational Physics - ZHAW</a>
+    i18n: company_f
+  desc:
+    detail: Performed extensive optical and drift diffusion simulations and models of colored DBRs applied to perovskite solar cells and measured the external quantum efficiency and J-V curves of the BIPVs.
+    i18n: company_f_desc
+  date:
+    detail: May - August 2023
+    i18n: company_f_date
+  job:
+    detail: Researcher
+    i18n: company_f_job
   icon: fa-plus-square
