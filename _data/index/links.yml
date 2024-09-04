@@ -1,6 +1,7 @@
 # links section data
 - last_name: 
   first_name:
-  desc: Business Card and E-mail
-  website: https://contact.antonioferreira.life
+  #desc: Business Card and E-mail
+  #website: https://contact.antonioferreira.life
+  desc: E-mail
   email: aferreira32@gatech.edu
