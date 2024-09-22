@@ -14,7 +14,7 @@
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: Phase Diagram
   tpl: skills.html
   css: team
 
