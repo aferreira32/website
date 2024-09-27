@@ -65,8 +65,9 @@
     
         <script>
             document.getElementById("generate_btn").addEventListener("click", async () => {
-                const elements = document.getElementById("elements").value;
-    
+                let elements = document.getElementById("elements").value;
+                elements = elements.split(',').map(elem => elem.trim().charAt(0).toUpperCase() + elem.trim().slice(1).toLowerCase());
+
                 if (!elements) {
                     alert("Please enter at least one element.");
                     return;
@@ -79,7 +80,7 @@
                             'Content-Type': 'application/json'
                         },
                         body: JSON.stringify({
-                            elements: elements.split(',').map(elem => elem.trim())
+                            elements: elements,
                         })
                     });
     
