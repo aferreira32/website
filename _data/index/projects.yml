@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: <a href="https://www.instagram.com/otiimagarage/">Otiima Garage</a>
   img: /static/assets/img/OtiimaGarage.jpg
-  desc: Otiima Garage is a classic car restoration shop. I restored Citroën HY, Porsche 914, Jaguar E-Type 4.2, and Alfa Romeo Giulia GTAM1750.
+  desc: Otiima Garage is a classic car restoration shop. So far, I have fully restored cars such as Citroën HY, Porsche 914, Jaguar E-Type 4.2, and Alfa Romeo Giulia GTAM1750. Here, I have gained experience in panel beating, welding, engine restoration, and machining.
 
 - name: <a href="https://www.havelar.com/">Havelar</a>
   img: /static/assets/img/Havelar_favicon.png
-  desc: Havelar is a 3D printing construction company focused on advancing construction technology to reduce the industry's carbon footprint and provide solutions to the global housing crisis.
+  desc: Havelar is a 3D printing construction company focused on advancing construction technology to reduce the industry's carbon footprint and provide solutions to the global housing crisis. Havelar plans to accomplish its goals through architecture excellence, by partnering with Pritzker laureates and world-renowned architects, and cutting-edge technology.
