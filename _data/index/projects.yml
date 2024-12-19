@@ -1,10 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: <a href="https://www.instagram.com/otiimagarage/">Otiima Garage</a>
-  img: /static/assets/img/OtiimaGarage.jpg
-  desc: Otiima Garage is a classic car restoration shop. So far, I have fully restored cars such as Citroën HY, Porsche 914, Jaguar E-Type 4.2, and Alfa Romeo Giulia GTAM1750. Here, I have gained experience in panel beating, welding, engine restoration, and machining.
 
 - name: <a href="https://www.havelar.com/">Havelar</a>
   img: /static/assets/img/Havelar_favicon.png
   desc: Havelar is a 3D printing construction company focused on advancing construction technology to reduce the industry's carbon footprint and provide solutions to the global housing crisis. Havelar plans to accomplish its goals through architecture excellence, by partnering with Pritzker laureates and world-renowned architects, and cutting-edge technology.
+
+- name: <a href="https://www.casmart.org/home/student-design-challenges/casmart-6th-design-challenge">CASMART 6th Student Design Challenge</a>
+  img: /static/assets/img/CASMART_favicon.png
+  desc: Fabricated elastocaloric NiTiCu shape memory alloys (SMAs) and performed tests and characterizations using DSC, SEM, and cyclical compression tests. I also gained experience with Vacuum Arc Melter, wire EDM, and ultrasonic powder atomizer. Presented the research results at the Shape Memory and Superelastic Technology (SMST) 2024 conference in Portugal.
+
+- name: <a href="https://www.instagram.com/otiimagarage/">Otiima Garage</a>
+  img: /static/assets/img/OtiimaGarage.jpg
+  desc: Otiima Garage is a classic car restoration shop. So far, I have fully restored cars such as Citroën HY, Porsche 914, Jaguar E-Type 4.2, and Alfa Romeo Giulia GTAM1750. Here, I have gained experience in panel beating, welding, engine restoration, and machining.

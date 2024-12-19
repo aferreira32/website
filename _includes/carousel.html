@@ -2,7 +2,7 @@
   <div id="inSlider" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
-      <li data-target="#inSlider" data-slide-to="0" class="active"></li>
+      <li data-target="#inSlider" data-slide-to="1" class="active"></li>
       {% for banner in site.data.index.banners offset:1 %}
         <li data-target="#inSlider" data-slide-to="{{ forloop.index }}"></li>
       {% endfor %}
@@ -10,18 +10,21 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-
+      
       <div class="item active">
         <div class="carousel-caption"></div>
         <img src="{{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }}" alt="{{ site.data.index.banners[0].title }}" style="width:100%;">
+        <div class="text">{{site.data.index.banners[0].caption}}</div>
       </div>
 
       {% for banner in site.data.index.banners offset:1 %}
       <div class="item">
         <div class="carousel-caption"></div>
         <img src="{{ '/static/assets/img/'  | prepend: site.baseurl }}{{ banner.src }}" alt="{{ banner.title }}" style="width:100%;">
+        <div class="text">{{banner.caption}}</div>
       </div>
       {% endfor %}
+      
       
     </div>
     
