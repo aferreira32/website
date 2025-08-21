@@ -1,0 +1,44 @@
+<div class="container" id="i18_leadership">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="leadership.my_leadership">Leadership Experience</span></h1>
+        </div>
+    </div>
+    <div class="row">
+        {% for leadership in site.data.index.leadership %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if forloop.last %}
+                {% if forloop.last == forloop.first %}
+            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+                {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+                {% endif %}
+            {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            {% endif %}
+              <div class="team-member">
+                  <img src="{{ leadership.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                  <h4>
+                  {% if leadership.url %}
+                  <a href="{{ leadership.url }}" target="_blank"><span class="navy">{{ leadership.name }}</span></a>
+                  {% elsif leadership.repo %}
+                  <a href="https://github.com/{{ leadership.gh_user }}/{{ leadership.repo }}" target="_blank"><span class="navy">{{ leadership.name }}</span></a>
+                  {% else %}
+                  <span class="navy">{{ leadership.name }}</span>
+                  {% endif %}
+                  </h4>
+                  <p><span data-i18n="leadership.{{ leadership.i18n }}">{{ leadership.desc }}</span></p>
+                  {% if leadership.repo %}
+                  <div user="{{ leadership.gh_user }}" repo="{{ leadership.repo }}" class="ghbtn">
+                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ leadership.gh_user }}/{{ leadership.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
+                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ leadership.gh_user }}/{{ leadership.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
+                      <div style="height: 10px;"></div>
+                  </div>
+                  {% endif %}
+              </div>
+          </div>
+      {% endfor %}
+    </div>
+</div>
+<br>

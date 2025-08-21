@@ -1,0 +1,31 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: <a href="https://www.me.gatech.edu/files/ug/me4790.pdf">Teaching Assistant - Materials Selection and Design</a>
+  img: /static/assets/img/ansys.png
+  desc: Currently, I serve as the TA for ME/MSE 4790 assisting students in an advanced Material Selection and Design course using Ashby's method and Ansys software.
+
+- name: <a href="https://www.mse.gatech.edu/sites/default/files/ugradsyllabi/MSE%203001.pdf">Teaching Assistant - Chemical Thermodynamics of Materials</a>
+  img: /static/assets/img/thermo.png
+  desc: As the TA for MSE 3001 from August 2023 through May 2025, I assisted 125+ students in a core MSE course, explained thermodynamic concepts, and graded homework/exams.
+
+- name: <a href="https://mill.mse.gatech.edu/">Chief Technology Office - Materials Innovation and Learning Laboratory (MILL)</a>
+  img: /static/assets/img/mill.png
+  desc: As CTO of the Characterization team at the MILL, I maintained and repaired equipment, trained staff and users, and supported on-campus research. Additionally, I oversaw the team, enhanced staff/user experience, procured equipment, and managed the laboratory with the executive board.
+
+
+
+  # - name:
+#     detail: <a href="https://mill.mse.gatech.edu/">The Materials Innovation and Learning Laboratory</a>
+#     i18n: company_e
+#   desc:
+#     detail: As Chief Technology Officer of the Characterization team, I maintained and repaired equipment, trained staff and users, and supported on-campus research. Additionally, I oversaw the team, enhanced staff/user experience, procured equipment, and managed the laboratory with the executive board.
+#     i18n: company_e_desc
+#   date:
+#     detail: Sept. 2021 - Jan. 2024
+#     i18n: company_e_date
+#   job:
+#     detail: CTO
+#     i18n: company_e_job
+#   icon: fa-plus-square

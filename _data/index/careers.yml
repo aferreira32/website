@@ -1,48 +1,62 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
-- name:
-    detail: <a href="https://stebnerlabs.me.gatech.edu/">Stebner Lab Group</a>
-    i18n: company_d
-  desc:
-    detail: Optimize ultrasonic atomization of metal powders, impurities detection and reduction, for feedstock on demand. Current setup is being improved by sensor/component design, and development of coatings for Carbon and Oxygen pick-up prevention.
-    i18n: company_d_desc
-  date:
-    detail: Sept. 2023 - Present
-    i18n: company_d_date
-  job:
-    detail: Researcher
-    i18n: company_d_job
-  icon: fa-plus-square
-  present: true
+# - name:
+#     detail: <a href="https://stebnerlabs.me.gatech.edu/">Stebner Lab Group</a>
+#     i18n: company_d
+#   desc:
+#     detail: Optimize ultrasonic atomization of metal powders, impurities detection and reduction, for feedstock on demand. Current setup is being improved by sensor/component design, and development of coatings for Carbon and Oxygen pick-up prevention.
+#     i18n: company_d_desc
+#   date:
+#     detail: Sept. 2023 - Present
+#     i18n: company_d_date
+#   job:
+#     detail: Researcher
+#     i18n: company_d_job
+#   icon: fa-plus-square
+#   present: true
 
 
-- name:
-    detail: Chem. Thermodynamics of Materials (MSE 3001)
-    i18n: company_b
-  desc:
-    detail: Assisted 125+ students in a core MSE course, breaking down and explaining advanced technical concepts. Grade homework and exams for Prof. Robert Speyer.
-    i18n: company_b_desc
-  date:
-    detail: Sept. 2023 - Present
-    i18n: company_b_date
-  job:
-    detail: Teaching Assistant
-    i18n: company_b_job
-  icon: fa-plus-square
-  present: true
+# - name:
+#     detail: Chem. Thermodynamics of Materials (MSE 3001)
+#     i18n: company_b
+#   desc:
+#     detail: Assisted 125+ students in a core MSE course, breaking down and explaining advanced technical concepts. Grade homework and exams for Prof. Robert Speyer.
+#     i18n: company_b_desc
+#   date:
+#     detail: Sept. 2023 - May 2025
+#     i18n: company_b_date
+#   job:
+#     detail: Teaching Assistant
+#     i18n: company_b_job
+#   icon: fa-plus-square
+#   present: false
+
+# - name:
+#     detail: <a href="https://www.stingelin-lab.gatech.edu/">Dr. Stingeling Lab Group</a>
+#     i18n: company_a
+#   desc:
+#     detail: Design, fabricate, and characterize fully-solution processed polymer-based thin films, distributed Bragg reflectors, and optical microcavities for photonic applications.
+#     i18n: company_a_desc
+#   date:
+#     detail: Sept. 2021 - Sept. 2024
+#     i18n: company_a_date
+#   job:
+#     detail: Undergraduate Researcher
+#     i18n: company_a_job
+#   icon: fa-plus-square
 
 - name:
-    detail: <a href="https://www.stingelin-lab.gatech.edu/">Dr. Stingeling Lab Group</a>
+    detail: <a href="https://www.framatome.com/en/">Framatome</a>
     i18n: company_a
   desc:
-    detail: Design, fabricate, and characterize fully-solution processed polymer-based thin films, distributed Bragg reflectors, and optical microcavities for photonic applications.
+    detail: Automated irradiation embrittlement and fracture mechanic calculations (ART, USE, PTS, UCC) for Pressure-Temperature safety curves. Evaluated corrosion of reactor materials under primary water conditions to support component integrity assessments.
     i18n: company_a_desc
   date:
-    detail: Sept. 2021 - Sept. 2024
+    detail: May - Aug. 2025
     i18n: company_a_date
   job:
-    detail: Undergraduate Researcher
+    detail: Materials Engineer Intern
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -56,23 +70,23 @@
     detail: May - Aug. 2024
     i18n: company_c_date
   job:
-    detail: Materials Engineer
+    detail: Materials Engineer Intern
     i18n: company_c_job
   icon: fa-plus-square
 
-- name:
-    detail: <a href="https://mill.mse.gatech.edu/">The Materials Innovation and Learning Laboratory</a>
-    i18n: company_e
-  desc:
-    detail: As Chief Technology Officer of the Characterization team, I maintained and repaired equipment, trained staff and users, and supported on-campus research. Additionally, I oversaw the team, enhanced staff/user experience, procured equipment, and managed the laboratory with the executive board.
-    i18n: company_e_desc
-  date:
-    detail: Sept. 2021 - Jan. 2024
-    i18n: company_e_date
-  job:
-    detail: CTO
-    i18n: company_e_job
-  icon: fa-plus-square
+# - name:
+#     detail: <a href="https://mill.mse.gatech.edu/">The Materials Innovation and Learning Laboratory</a>
+#     i18n: company_e
+#   desc:
+#     detail: As Chief Technology Officer of the Characterization team, I maintained and repaired equipment, trained staff and users, and supported on-campus research. Additionally, I oversaw the team, enhanced staff/user experience, procured equipment, and managed the laboratory with the executive board.
+#     i18n: company_e_desc
+#   date:
+#     detail: Sept. 2021 - Jan. 2024
+#     i18n: company_e_date
+#   job:
+#     detail: CTO
+#     i18n: company_e_job
+#   icon: fa-plus-square
 
 - name:
     detail: <a href="https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/">Institute of Computational Physics - ZHAW</a>
@@ -84,6 +98,6 @@
     detail: May - Aug. 2023
     i18n: company_f_date
   job:
-    detail: Researcher
+    detail: Research Intern
     i18n: company_f_job
   icon: fa-plus-square
