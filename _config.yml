@@ -4,14 +4,14 @@
 title: António Ferreira
 description: António Ferreira's portfolio
 keywords: Materials Science and Engineering, Georgia Tech
-baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+#baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://antonioferreira.life  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author: # change following line to your infomation.
-  name: António Ferreira  # Be used at blog posts' author.
+  name: António Ferreira  # Be used at blog posts' austhor.
   first_name: António  # Be used at index page about me section.
   last_name: Ferreira  # Be used at index page about me section.
   avatar: /static/assets/img/headshot.jpg  # upload your avatar at directory and edit it.
@@ -28,7 +28,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: 
     - name: 
-  desc: Born and raised in Portugal, I'm a Materials Science & Engineering student and Materials Thermodynamics (MSE 3001) teaching assistant at Georgia Tech. My interests range from shape memory alloys, technical ceramics and additive manufacturing technologies, to materials for energy applications and their processing. Outside school, I love to practice Muay-Thai, work out with friends, travel, and read.  # Describe yourself.
+  desc: I first discovered my passion for Materials Science and Engineering (MSE) while restoring a 1969 Citroën HY. Although its engine cycle was nearly identical to modern cars, I realized that advances in materials were major drivers of efficiency. This insight led me to pursue my Bachelor's and Master's in MSE at Georgia Tech, where I focus on Computational Materials Science and Materials Informatics. Alongside my coursework, I'm a teaching assistant for Materials Selection and Design and conduct research at the Advanced Manufacturing Pilot Facility (AMPF). My interests range from shape memory alloys, technical ceramics and additive manufacturing technologies, to materials for energy applications and their processing. Through my research, I've come to see that traditional Edisonian methods won't meet the world's future needs. My goal is to merge physics-based models with data-driven approaches to accelerate discovery and materially enable future generations. Outside of school, I practice Muay Thai, work out with friends, travel, and read.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
