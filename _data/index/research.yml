@@ -5,7 +5,7 @@
     detail: <a href="https://stebnerlabs.me.gatech.edu/">Stebner Lab Group</a>
     i18n: company_d
   desc:
-    detail: Optimize ultrasonic atomization of metal powders, impurities detection and reduction, for feedstock on demand. Current setup is being improved by sensor/component design, and development of coatings for Carbon and Oxygen pick-up prevention.
+    detail: Optimize ultrasonic atomization of metal powders, impurity detection and reduction, for feedstock on demand, through sensor/component design and development of coatings for Carbon and Oxygen pick-up prevention. Developed Techno-Economic models comparing 3 additive manufacturing processes for metal with ceramic inclusions.
     i18n: company_d_desc
   date:
     detail: Sept. 2023 - Present
