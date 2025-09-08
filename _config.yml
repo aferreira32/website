@@ -28,7 +28,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: 
     - name: 
-  desc: I first discovered my passion for Materials Science and Engineering (MSE) while restoring a 1969 Citroën HY. Although its engine cycle was nearly identical to modern cars, I realized that advances in materials were major drivers of efficiency. This insight led me to pursue my Bachelor's and Master's in MSE at Georgia Tech, where I focus on Computational Materials Science and Materials Informatics. Alongside my coursework, I'm a teaching assistant for Materials Selection and Design and conduct research at the Advanced Manufacturing Pilot Facility (AMPF). My interests range from shape memory alloys, technical ceramics and additive manufacturing technologies, to materials for energy applications and their processing. Through my research, I've come to see that traditional Edisonian methods won't meet the world's future needs. My goal is to merge physics-based models with data-driven approaches to accelerate discovery and materially enable future generations. Outside of school, I practice Muay Thai, work out with friends, travel, and read.  # Describe yourself.
+  desc: Currently pursuing a M.S. in Materials Science and Engineering at Georgia Tech, doing research in additive manufacturing of shape memory alloys (SMAs). My goal is to automate materials manufacturing and merge physics-based models with data-driven approaches to accelerate discovery and materially enable future generations. Outside of school, I practice Muay Thai, work out with friends, travel, and read.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
