@@ -3,7 +3,7 @@
 # Website settings
 title: António Ferreira
 description: António Ferreira's portfolio
-keywords: Materials Science and Engineering, Georgia Tech
+keywords: Materials Science and Engineering, Georgia Tech, Northwestern University
 #baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://antonioferreira.life  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -23,13 +23,12 @@ author: # change following line to your infomation.
   cv: http://antonioferreira.life/Antonio_Ferreira_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: 
-    - name: 
+    - name:
+    - name:
   skill_icon2:
-    - name: 
-    - name: 
-  desc: Currently pursuing a M.S. in Materials Science and Engineering at Georgia Tech, doing research in additive manufacturing of shape memory alloys (SMAs). My goal is to automate materials manufacturing and merge physics-based models with data-driven approaches to accelerate discovery and materially enable future generations. Outside of school, I practice Muay Thai, work out with friends, travel, and read.  # Describe yourself.
-
+    - name:
+    - name:
+  desc: "Currently pursuing a Ph.D. in Materials Science and Engineering at Northwestern University. I completed my M.S. in Materials Science and Engineering at Georgia Tech in May 2026, researching additive manufacturing of shape memory alloys (SMAs).<br><br>My studies are guided by a vision for the field: a future where new materials are developed at speed, from chemistry and property prediction using physics-based models, all the way through to large-scale manufacturing. I'm particularly interested in alloys for extreme environments and the advanced manufacturing techniques that enable them.<br><br>Alongside my studies, I work part-time at Havelar, a startup developing concrete 3D construction printing (3DCP) technology, where I contribute to hands-on engineering and business development. For fun, I practice Muay Thai, work out with friends, travel, and read."
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name:
