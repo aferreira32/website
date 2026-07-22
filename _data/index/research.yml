@@ -5,16 +5,16 @@
     detail: <a href="https://stebnerlabs.me.gatech.edu/">Stebner Lab Group</a>
     i18n: company_d
   desc:
-    detail: Optimize ultrasonic atomization of metal powders, impurity detection and reduction, for feedstock on demand, through sensor/component design and development of coatings for Carbon and Oxygen pick-up prevention. Developed Techno-Economic models comparing 3 additive manufacturing processes for metal powder with ceramic inclusions.
+    detail: "Performed microstructural and chemical analysis of Wire-Arc Additive Manufactured (WAAM) NiTi SMAs.<br>CASMART 6th Student Design Challenge: fabricated elastocaloric NiTiCu SMAs, tested and characterized materials with DSC, SEM, cyclical compression, and presented research findings at SMST 2024.<br>Optimized ultrasonic atomization of metal powder, impurity detection and reduction, for feedstock on demand"
     i18n: company_d_desc
   date:
-    detail: Sept. 2023 - Present
+    detail: Sept. 2023 - May 2026
     i18n: company_d_date
   job:
-    detail: Researcher
+    detail: Undergraduate/Graduate Researcher
     i18n: company_d_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 
 # - name:

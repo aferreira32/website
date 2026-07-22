@@ -2608,6 +2608,8 @@ body {
   .features-icon {
     color: #3385FF;
     font-size: 40px;
+    display: flex;
+    align-items: center;
   }
   .navy-section {
     margin-top: 60px;
@@ -2628,13 +2630,35 @@ body {
   .social-icon a {
     background: #3385FF;
     color: #fff;
-    padding: 4px 8px;
+    padding: 0;
     height: 28px;
     width: 28px;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 50px;
+    font-size: 1.3em;
+    &:hover {
+      background: transparent;
+      color: #3385FF;
+    }
+  }
+  .social-icon a.orcid-link {
+    background: #fff;
+    color: #3385FF;
+    padding: 0;
+    height: 28px;
+    width: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    font-size: 2.2em;
+    line-height: 1;
+    transform: translateY(5px);
     &:hover {
       background: #3385FF;
+      color: #fff;
     }
   }
   .img-small {
@@ -2874,6 +2898,7 @@ body {
     .social-icon {
       justify-content: center;
       display: flex;
+      align-items: center;
     }
   }
 }
