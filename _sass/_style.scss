@@ -2802,3 +2802,78 @@ body {
     }
   }
 }
+
+// Mobile optimizations for about section
+@media (max-width: 767px) {
+  #i18_about_me {
+    .row {
+      // Ensure content is centered
+      text-align: center;
+    }
+    
+    // Photo and icon container
+    .col-lg-5.col-md-5.col-sm-12 {
+      margin-bottom: 30px;
+      padding-left: 15px;
+      padding-right: 15px;
+      display: flex;
+      justify-content: center;
+      
+      // Nested row for icons and avatar
+      .row {
+        width: auto;
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+        margin-right: 0;
+      }
+      
+      // Hide side icon columns on mobile for cleaner alignment
+      .col-xs-2 {
+        display: none;
+      }
+      
+      // Avatar column takes full available space and centers
+      .col-xs-8 {
+        text-align: center !important;
+        width: auto !important;
+        float: none !important;
+        padding-left: 0;
+        padding-right: 0;
+      }
+    }
+    
+    // Description text on mobile
+    .col-lg-7.col-md-7.col-sm-12 {
+      text-align: center !important;
+      padding-left: 15px;
+      padding-right: 15px;
+      width: 100%;
+      float: none !important;
+      
+      p {
+        margin-top: 0;
+      }
+    }
+    
+    // Center the image and text properly
+    .team-member {
+      text-align: center;
+      
+      img {
+        margin: 0 auto;
+        display: block;
+      }
+      
+      h4 {
+        text-align: center;
+      }
+    }
+    
+    // Center social icons
+    .social-icon {
+      justify-content: center;
+      display: flex;
+    }
+  }
+}
