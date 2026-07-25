@@ -2827,6 +2827,27 @@ body {
   }
 }
 
+// Desktop layout for about section
+#i18_about_me {
+  .about-inner {
+    max-width: 980px;
+    margin: 0 auto;
+  }
+
+  .about-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .about-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
 // Mobile optimizations for about section
 @media (max-width: 767px) {
   #i18_about_me {
@@ -2836,7 +2857,7 @@ body {
     }
     
     // Photo and icon container
-    .col-lg-5.col-md-5.col-sm-12 {
+    .about-left {
       margin-bottom: 30px;
       padding-left: 15px;
       padding-right: 15px;
@@ -2868,7 +2889,7 @@ body {
     }
     
     // Description text on mobile
-    .col-lg-7.col-md-7.col-sm-12 {
+    .about-right {
       text-align: center !important;
       padding-left: 15px;
       padding-right: 15px;
