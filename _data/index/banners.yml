@@ -7,10 +7,14 @@
   title: first banner image
   caption: Colored SEM image of Nylon fibers. Taken while training students in the SEM at the MILL.
 
+- src: Banner2.png
+  title: second banner image
+  caption: Colored SEM image of unkown powder sample. Taken while training students in the SEM at the MILL.
+
 - src: Banner3.png
   title: third banner image
   caption: Colored SEM image of Copepod. Taken while assisting Ph.D. students in Prof. Yen's research.
 
-- src: Banner2.png
-  title: second banner image
-  caption: Colored SEM image of unkown powder sample. Taken while training students in the SEM at the MILL.
+- src: patinhoBanner.png
+  title: fourth banner image
+  caption: "\"Tungsten Duck.\" Colored SEM image of a tungesten sample, taken while training on Hitachi SU8010 SEM."
