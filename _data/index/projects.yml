@@ -2,6 +2,10 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: <a href="/wulff/">Wulff Construction</a>
+  img: /static/assets/img/wulff_favicon.png
+  desc: The Wulff construction predicts the equilibrium shape a crystal adopts by finding the geometry that minimizes total surface energy. This tool renders that shape interactively so you can watch the crystal habit reshape in real time. It's a useful teaching aid because it turns an abstract energy-minimization principle into something you can manipulate directly, building intuition for why crystals look the way they do.
+
 - name: <a href="https://www.havelar.com/">Havelar</a>
   img: /static/assets/img/Havelar_favicon.png
   desc: Havelar is a 3D printing construction company focused on advancing construction technology to reduce the industry's carbon footprint and provide solutions to the global housing crisis. Havelar plans to accomplish its goals through architecture excellence, by partnering with Pritzker laureates and world-renowned architects, and cutting-edge technology.
